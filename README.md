@@ -1,2 +1,13 @@
 # DOBI
 来自逗比一号Zhuoran Li 的编程理念
+## 什么是DOBI？
+DOBI来自李卓然班长的逗比理念，结合了C艹、jvav、puthon、JvavScript、brainfxxk、whitespace等编程语言的理念。
+## 意识流语句
+由于DOBI的语法可以使用不同编程语言的关键词，所以实际上是在面向意识流编程。例如：
+```
+吾有一術。名之曰「print」。是術曰。
+{
+    puts x
+}
+是謂「print」之術也。
+```
