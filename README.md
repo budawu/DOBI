@@ -13,7 +13,7 @@ DOBI来自李卓然班长的逗比理念，结合了C艹、jvav、puthon、JvavS
 ```
 上述代码结合了wenyan-lang、C艹、Ruby的语法。  
 ## 如何运行DOBI？
-下载星辰14.fxxk文件
+下载 星辰14.wy 文件（是的你没看错是wenyan-lang）
 ```
 
 #下载软件包tDSOC-14  
