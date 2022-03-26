@@ -11,7 +11,7 @@ DOBI来自李卓然班长的逗比理念，结合了C艹、jvav、puthon、JvavS
 }
 是謂「print」之術也。
 ```
-上述代码结合了wenyan-lang、C艹、Ruby的语法。
+上述代码结合了wenyan-lang、C艹、Ruby的语法。  
 ##如何运行DOBI？
 下载星辰14.fxxk文件
 ```
