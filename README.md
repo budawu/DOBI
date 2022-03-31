@@ -2,6 +2,8 @@
 来自逗比一号Zhuoran Li 的编程理念
 ## 什么是DOBI？
 DOBI来自李卓然班长的逗比理念，结合了C艹、jvav、puthon、JvavScript、brainfxxk、whitespace等编程语言的理念。
+## DOBI与您同在
+doubi是一种跨平台的编程语言，能在任何东西上运行，甚至能在空气中运行！
 ## 意识流语句
 由于DOBI的语法可以使用不同编程语言的关键词，所以实际上是在面向意识流编程。例如：
 ```
