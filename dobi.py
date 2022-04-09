@@ -1,5 +1,5 @@
 from tkinter import *
-print('cmd 2.1.0 system')
+print('dobian 2.1.0 system')
 
 while 1:
     a=input('C:\doubi>')
@@ -10,7 +10,7 @@ while 1:
 You are using cmd 2.1.0.However,vision2.1.1is available.''')
     elif a=='shutdown':
         r=Tk('300x30')
-        l1=Label(r,text='Windows将在10秒后关闭。')
+        l1=Label(r,text='Dobian将在10秒后关闭。')
         l1.pack()
         b1=Button(r,text='确定')
         b1.pack()
