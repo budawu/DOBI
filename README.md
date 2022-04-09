@@ -19,7 +19,7 @@ doubi是一种跨平台的编程语言，能在任何东西上运行，甚至能
 ```
 
 #下载软件包tDSOC-14  
-$ sodo lizhuoran TDSOC-14  
+$ sudo wyg3 install lizhuoran-TDSOC-14  
 #下载dobi
 $ dobi install
 ```
