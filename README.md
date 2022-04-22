@@ -7,13 +7,19 @@ doubi是一种跨平台的编程语言，能在任何东西上运行，甚至能
 ## 意识流语句
 由于DOBI的语法可以使用不同编程语言的关键词，所以实际上是在面向意识流编程。例如：
 ```
-吾有一術。名之曰「print」。是術曰。
++++++.----[.++----]
+吾有一術。print(args,flush):
 {
-    puts x
+    System.printOut(args)
+    3.times do 
+        puts'dadadadad0adadadada'
+    end
 }
 是謂「print」之術也。
+   [--.+++++]
+返回 10086；
 ```
-上述代码结合了wenyan-lang、C艹、Ruby的语法。  
+上述代码结合了wenyan-lang、C艹、Ruby、puthon、难语言的语法。  
 ## 如何运行DOBI？
 下载 星辰14.wy 文件（是的你没看错是wenyan-lang）
 ```
