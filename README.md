@@ -21,7 +21,7 @@ doubi是一种跨平台的编程语言，能在任何东西上运行，甚至能
 ```
 上述代码结合了wenyan-lang、C艹、Ruby、puthon、难语言的语法。  
 ## 如何运行DOBI？
-下载 星辰14.wy 文件（是的你没看错是wenyan-lang）
+下载 星辰14.wy 文件。doubi运行环境由<a href="https://wy-lang.org/">wenyan-lang<a>代码写成。
 ```
 
 #下载软件包tDSOC-14  
