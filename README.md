@@ -29,7 +29,7 @@ $ sudo wyg3 install lizhuoran-TDSOC-14
 #下载dobi
 $ tdsocC-14 install
 ```
-如果你的操作系统是Dobian，那么系统会自带DOBI运行环境dobi: doubi.dob
+如果你的操作系统是Dobian，那么系统会自带DOBI运行环境dobi: doubi.dob  
 运行DOUBI：
 ```
 $ dobi <xxx>.dob
