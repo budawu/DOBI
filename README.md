@@ -1,5 +1,6 @@
 # DOBI
 来自逗比一号Zhuoran Li 的编程理念
+> 此项目完全在胡说八道，但那个Python脚本是[pi-shell](https://github.com/budawu/pi-shell)的灵感源泉。
 ## 什么是DOBI？
 DOBI来自李卓然班长的逗比理念，结合了C艹、jvav、puthon、JvavScript、brainfxxk、whitespace等编程语言的理念。
 ## DOBI与您同在
